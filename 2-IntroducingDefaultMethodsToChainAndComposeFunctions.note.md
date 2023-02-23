@@ -2,7 +2,7 @@
 
 ## Chaining Consumers (with default methods)
 
-### **`src/function/Consumer.java:`**
+### `src/function/Consumer.java`
 ```java
 package function;
 
@@ -22,7 +22,7 @@ public interface Consumer<T> {
 }
 ```
 
-### **`src/PlayWithConsumers.java`**
+### `src/PlayWithConsumers.java`
 ```java
 import function.Consumer;
 
@@ -36,7 +36,7 @@ public class PlayWithConsumers {
 } 
 ```
 
-### **`OUTPUT`**
+### `OUTPUT`
 ```text
 c1 = Hello
 c2 = Hello
@@ -44,7 +44,7 @@ c2 = Hello
 
 ## Combining and Negating Predicates
 
-### **`src/function/Predicate.java:`**
+### `src/function/Predicate.java`
 ```java
 package function;
 
@@ -65,7 +65,7 @@ public interface Predicate<T> {
 }
 ```
 
-### **`src/PlayWithPredicates.java`**
+### `src/PlayWithPredicates.java`
 ```java
 import function.Predicate;
 
@@ -84,7 +84,7 @@ public class PlayWithPredicates {
 }
 ```
 
-### **`OUTPUT`**
+### `OUTPUT`
 ```text
 p3.test(null) = false
 p3.test("") = false
@@ -93,7 +93,7 @@ p3.test("Hello") = true
 
 ## Chaining and Composing Functions
 
-### **`src/function/Predicate.java`**
+### `src/function/Predicate.java`
 
 ```java
 package function;
@@ -126,7 +126,7 @@ public interface Function<T, R> {
 }
 ```
 
-### **`src/model/Meteo.java`**
+### `src/model/Meteo.java`
 ```java
 package model;
 
@@ -143,7 +143,7 @@ public class Meteo {
 }
 ```
 
-### **`src/PlayWithFunctions.java`**
+### `src/PlayWithFunctions.java`
 
 ```java
 import function.Function;
@@ -170,13 +170,13 @@ public class PlayWithFunctions {
 }
 ```
 
-> - function composition works the opposite way than function chaining
->   - with chaining, you define the order that functions are applied
->   - with composition, you apply a function to result of the previous one
->   - only possible with the Function interface
-> - identity function returns the same argument it was given
+- function composition works the opposite way than function chaining
+  - with chaining, you define the order that functions are applied
+  - with composition, you apply a function to result of the previous one
+  - only possible with the Function interface
+- identity function returns the same argument it was given
 
-### **`OUTPUT`**
+### `OUTPUT`
 ```text
 readFahrenheit.apply(meteo) = 50.0
 readFahrenheit.apply(meteo) = 50.0
