@@ -13,7 +13,6 @@
 
 [url.course]: https://app.pluralsight.com/library/courses/implementing-design-patterns-java-8-lambda-expression
 [branch.gh.main]: https://github.com/reinielfc/lrn-ps-java8-lambda-design-patterns/tree/main
-[branch.gh.p3]: https://github.com/reinielfc/lrn-ps-java8-lambda-design-patterns/tree/3-UsingFunctionCompositionAndChainingToBuildComparators
 [branch.gh.p4]: https://github.com/reinielfc/lrn-ps-java8-lambda-design-patterns/tree/4-FromFactoryAndRegistryToBuilderUsingLambdaExpressions
 [branch.gh.p5]: https://github.com/reinielfc/lrn-ps-java8-lambda-design-patterns/tree/5-ImplementingTheVisitorPatternUsingFunctionsAndComposition
 [branch.gh.p6]: https://github.com/reinielfc/lrn-ps-java8-lambda-design-patterns/tree/6-UsingPartialApplicationAndLambdasToBuildValidators
