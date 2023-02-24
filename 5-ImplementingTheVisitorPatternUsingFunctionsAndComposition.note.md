@@ -1,1 +1,0 @@
-# 5. Implementing The Visitor Pattern Using Functions and Composition
