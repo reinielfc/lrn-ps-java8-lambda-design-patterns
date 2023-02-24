@@ -1,10 +1,10 @@
 # Learn With Pluralsight: [Implementing Design Patterns Using Java 8 Lambda][url.course]
 
-1. **Course Overview** [[GITHUB][branch.gh.main]]
+1. Course Overview [[GITHUB][branch.gh.main]]
 2. Introducing Default Methods to Chain and Compose Functions [[NOTE](2-IntroducingDefaultMethodsToChainAndComposeFunctions.note.md)]
 3. Using Function Composition and Chaining to Build Comparators [[NOTE](3-UsingFunctionCompositionAndChainingToBuildComparators.note.md)]
 4. From Factory and Registry to Builder Using Lambda Expressions [[GITHUB][branch.gh.p4]]
-5. Implementing The Visitor Pattern Using Functions and Composition [[GITHUB][branch.gh.p5]]
+5. **Implementing The Visitor Pattern Using Functions and Composition** [[NOTE](5-ImplementingTheVisitorPatternUsingFunctionsAndComposition.note.md)]
 6. Using Partial Application and Lambdas to Build Validators
 
 ## Additional Resources
