@@ -4,7 +4,7 @@
 2. Introducing Default Methods to Chain and Compose Functions [[NOTE](2-IntroducingDefaultMethodsToChainAndComposeFunctions.note.md)]
 3. Using Function Composition and Chaining to Build Comparators [[NOTE](3-UsingFunctionCompositionAndChainingToBuildComparators.note.md)]
 4. From Factory and Registry to Builder Using Lambda Expressions [[GITHUB][branch.gh.p4]]
-5. Implementing The Visitor Pattern Using Functions and Composition
+5. Implementing The Visitor Pattern Using Functions and Composition [[GITHUB][branch.gh.p5]]
 6. Using Partial Application and Lambdas to Build Validators
 
 ## Additional Resources
