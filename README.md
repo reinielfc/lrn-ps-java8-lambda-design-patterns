@@ -3,8 +3,8 @@
 1. **Course Overview** [[GITHUB][branch.gh.main]]
 2. Introducing Default Methods to Chain and Compose Functions [[NOTE](2-IntroducingDefaultMethodsToChainAndComposeFunctions.note.md)]
 3. Using Function Composition and Chaining to Build Comparators [[NOTE](3-UsingFunctionCompositionAndChainingToBuildComparators.note.md)]
-4. From Factory and Registry to Builder Using Lambda Expressions [[GITHUB][branch.gh.p4]]
-5. Implementing The Visitor Pattern Using Functions and Composition [[GITHUB][branch.gh.p5]]
+4. From Factory and Registry to Builder Using Lambda Expressions [[GITHUB][branch.gh.p4]] [[NOTE][note.gh.p4]]
+5. Implementing The Visitor Pattern Using Functions and Composition [[GITHUB][branch.gh.p5]] [[NOTE][note.gh.p5]]
 6. Using Partial Application and Lambdas to Build Validators
 
 ## Additional Resources
@@ -16,4 +16,6 @@
 [branch.gh.p4]: https://github.com/reinielfc/lrn-ps-java8-lambda-design-patterns/tree/4-FromFactoryAndRegistryToBuilderUsingLambdaExpressions
 [branch.gh.p5]: https://github.com/reinielfc/lrn-ps-java8-lambda-design-patterns/tree/5-ImplementingTheVisitorPatternUsingFunctionsAndComposition
 [branch.gh.p6]: https://github.com/reinielfc/lrn-ps-java8-lambda-design-patterns/tree/6-UsingPartialApplicationAndLambdasToBuildValidators
+[note.gh.p4]: https://github.com/reinielfc/lrn-ps-java8-lambda-design-patterns/blob/4-FromFactoryAndRegistryToBuilderUsingLambdaExpressions/4-FromFactoryAndRegistryToBuilderUsingLambdaExpressions.note.md
+[note.gh.p5]: https://github.com/reinielfc/lrn-ps-java8-lambda-design-patterns/blob/5-ImplementingTheVisitorPatternUsingFunctionsAndComposition/5-ImplementingTheVisitorPatternUsingFunctionsAndComposition.note.md
 [resource.book.DesignPatterns]: https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8
